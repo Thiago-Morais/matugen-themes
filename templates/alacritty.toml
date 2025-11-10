@@ -37,8 +37,8 @@ background = '{{colors.primary.default.hex}}'
  
 [colors.normal]
 black = '#181818' 
-red = '{{colors.error.default.hex}}' 
-green = '{{colors.primary.default.hex}}' 
+red = '{{colors.red.default.hex}}' 
+green = '{{colors.green.default.hex}}' 
 yellow = '{{colors.inverse_primary.default.hex}}' 
 blue = '{{colors.primary.default.hex}}' 
 magenta = '{{colors.tertiary.default.hex}}' 
